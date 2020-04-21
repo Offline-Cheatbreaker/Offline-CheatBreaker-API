@@ -5,6 +5,8 @@ The Offline CheatBreaker API will allow you to detect when a player is running C
 
 This API has been tested with Spigot 1.7.10, PaperSpigot 1.7.10 and mSpigot 1.7.10 (MineHQ Spigot).
 
+This API can detect people on Offline CheatBreaker 1.7.10 and 1.8.9.
+
 ## Download
 
 The latest release can be found [here](https://github.com/Offline-Cheatbreaker/Offline-CheatBreaker-API/releases/latest).
