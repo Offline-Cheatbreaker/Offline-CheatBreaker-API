@@ -17,9 +17,9 @@ The latest release can be found [here](https://github.com/Offline-Cheatbreaker/O
 
 `/cb (username)` - To check if the player is using CheatBreaker.
 
-`/cbn` - To send a CB notification.
+`/cbn` - To send a CB notification (Default permission: `cheatbreaker.admin`).
 
-`/cbt` - To send a CB title text.
+`/cbt` - To send a CB title text (Default permission: `cheatbreaker.admin`).
 
 ## Documentation
 
