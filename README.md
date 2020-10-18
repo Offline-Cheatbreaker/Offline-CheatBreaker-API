@@ -29,7 +29,7 @@ Documentation can be found on the [wiki pages](https://github.com/Offline-Cheatb
 
 ## Examples
 
-Example plugins can be found under the `Examples` folder. Those examples will help you integrate the CB API into your plugins.
+Example plugins can be found under the [`Examples`](/Examples) folder. Those examples will help you integrate the CB API into your plugins.
 
 ## Reporting an issue
 
