@@ -72,5 +72,12 @@
             <artifactId>lombok</artifactId>
             <version>1.18.12</version>
         </dependency>
+        <dependency>
+            <groupId>com.cheatbreaker</groupId>
+            <artifactId>OfflineCheatBreakerAPI</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <systemPath>${project.basedir}/lib/OfflineCheatBreakerAPI.jar</systemPath>
+            <scope>system</scope>
+        </dependency>
     </dependencies>
 </project>
