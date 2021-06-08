@@ -43,4 +43,4 @@ If you suspect an issue you can submit one [here](https://github.com/Offline-Che
 
 ## Credits
 
-The original CB API (made by FrozenOrb) can be found [here](https://github.com/CheatBreaker/CheatBreakerAPI).
+The original CB API (made by CheatBreaker, LLC) can be found [here](https://github.com/CheatBreaker/CheatBreakerAPI).
